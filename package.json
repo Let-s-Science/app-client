@@ -1,0 +1,19 @@
+{
+  "name": "letsscience-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "client/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Let-s-Science/app-client.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Let-s-Science/app-client/issues"
+  },
+  "homepage": "https://github.com/Let-s-Science/app-client#readme"
+}
